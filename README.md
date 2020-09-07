@@ -8,4 +8,4 @@ Application written with Swift 5.2.5 on Xcode 11.7
 
 Save and get your image from the app's Documents folder via FileManager
 
-More info here: [Build your QR Code reader](https://medium.com/@jkdory83/build-your-qr-code-reader-7b89ca401e9a)
+More info here: [Work with UIImage in your App](https://medium.com/@jkdory83/work-with-uiimage-in-your-app-968a84de1bed)
